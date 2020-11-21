@@ -30,4 +30,4 @@ Mit "Schließen" kann das Programm frühzeitig geschlossen werden.
     
     Bugs, Probleme, Kritiken: schmidbauer.biz@gmail.com
     
-Contribute to future projects (PayPal) xenthorartist@gmail.com
+Contribute to future projects [Donate](https://www.paypal.com/donate?hosted_button_id=825RPFTRDCW7A) (to PayPal)
