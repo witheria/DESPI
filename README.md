@@ -1,5 +1,5 @@
 # DACH eSports Package Installer
-Der *DACH eSports Package Installer* ist ein kleines Programm, um Streaming-Packages die von OBS (*Open Broadcaster Software*) exportiert werden, automatisiert und vollständig zu verschieben, ohne dabei die Dateipfade der Dateien einzeln ändern zu müssen. 
+Der *DACH eSports Package Installer* ist ein kleines Programm, um Streaming-Packages, die von OBS (*Open Broadcaster Software*) exportiert werden, automatisiert und vollständig zu verschieben, ohne dabei die Dateipfade der Dateien einzeln ändern zu müssen. 
 
 #### Das Programm benutzt die folgenden Module um seiner Aufgabe nachzugehen:
 
