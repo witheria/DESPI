@@ -1,7 +1,7 @@
 ---
-name: Bug melden
-about: Melde uns einen Fehler
-title: "[FEHLERMELDUNG]"
+Name: Bug melden
+Über: Melde uns einen Fehler
+Titel: "[FEHLERMELDUNG]"
 labels: ''
 assignees: witheria
 
