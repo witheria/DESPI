@@ -25,3 +25,9 @@ Das Programm erstellt bei Benutzung im Ordner eine versteckte config-Datei, die 
 Mit "Schließen" kann das Programm frühzeitig geschlossen werden. 
 
 *Das Programm kann mithilfe einer Command-Prompt gestartet werden, um mögliche Fehler aufzufangen.*
+
+    © Toni Schmidbauer 2020 / Released under GPL 2.0
+    
+    Bugs, Probleme, Kritiken: schmidbauer.biz@gmail.com
+    
+Contribute to future projects (PayPal) xenthorartist@gmail.com
