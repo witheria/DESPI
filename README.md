@@ -3,7 +3,7 @@ Der *DACH eSports Package Installer* ist ein kleines Programm, um Streaming-Pack
 
 #### Das Programm benutzt die folgenden Module um seiner Aufgabe nachzugehen:
 
- -  [PyQt5 Gui, Widgets, Core](https://pypi.org/project/PyQt5/)
+ - [PyQt5 Gui, Widgets, Core](https://pypi.org/project/PyQt5/)
  - [pathlib](https://docs.python.org/3/library/pathlib.html)
  - [inspect](https://docs.python.org/3/library/inspect.html)
 
