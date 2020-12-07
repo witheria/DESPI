@@ -19,11 +19,11 @@ Der Gebrauch ist denkbar einfach:
  Das Programm:
   - kopiert *alles* im Ordner der JSON-Datei an die neue Location
   - ändert Pfade von allen Elementen die in diesem Paket liegen (*müssen in einem eindeutigen Unterordner liegen!*) in der JSON
+  
   **!WICHTIG! 
      Damit von einem Objekt der Pfad geändert wird, muss es eindeutig dem Paket zuweisbar sein! Das wird z.B. durch einen Unterordner erreicht.
      Beispiel:
-     Alle Dateien des Pakets liegen im Unterordner /paket/..., die JSON auch, dann werden alle Pfade von Elementen die diesen Ordner im Namen haben geändert
-     !WICHTIG!**
+     Alle Dateien des Pakets liegen im Unterordner /paket/..., die JSON auch, dann werden alle Pfade von Elementen die im JSON den Ordnernamen im Pfad haben, geändert**
      
 
   - trägt die neue Szenensammlung in die OBS-Szenenliste ein (Programm muss als Administrator ausgeführt werden!)
